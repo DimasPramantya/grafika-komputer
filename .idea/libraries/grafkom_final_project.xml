@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grafkom_final_project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/grafkom_final_project.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
